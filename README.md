@@ -1,6 +1,6 @@
 # Collection of RSS Feeds
 
-This is my personal collection of RSS feeds created for practicing Python and for websites without native RSS feeds.
+This project is my personal collection of RSS feeds created for practicing Python. It generates RSS feeds of websites that do not provide a native or stable RSS feed.
 
 You can follow the RSS feeds by copying the links below:
 
