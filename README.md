@@ -2,7 +2,7 @@
 
 This is my personal collection of RSS feeds created for practicing Python and for websites without native RSS feeds.
 
-Follow the raw .xml file to stay up to date to the following feeds
+You can follow the RSS feeds by copying the links below:
 
 | Source | Description | RSS Link |
 |----------|---------|---------|
