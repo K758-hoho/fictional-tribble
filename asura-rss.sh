@@ -1,5 +1,5 @@
 #!/bin/sh
-base_url="https://asuratoon.com"
+base_url="https://asurascans.com"
 
 oldfile="$(cat asura.xml)"
 

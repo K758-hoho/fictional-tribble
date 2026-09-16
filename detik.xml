@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Berita - DetikNews</title>
+    <link>https://news.detik.com/indeks</link>
+    <description>Berita hari ini di Indonesia dan Internasional</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://akcdn.detik.net.id/community/media/visual/2020/09/17/logo-detiknews.png</url>
+      <title>Berita - DetikNews</title>
+      <link>https://news.detik.com/indeks</link>
+    </image>
+    <language>id</language>
+    <lastBuildDate>Wed, 16 Sep 2026 04:26:29 +0000</lastBuildDate>
+    <item>
+      <title>Benih Unggul, Jalan Baru Kedaulatan Pangan</title>
+      <link>https://news.detik.com/kolom/d-8664812/benih-unggul-jalan-baru-kedaulatan-pangan</link>
+      <description>Benih Unggul, Jalan Baru Kedaulatan Pangan</description>
+      <guid isPermaLink="false">https://news.detik.com/kolom/d-8664812/benih-unggul-jalan-baru-kedaulatan-pangan</guid>
+    </item>
+    <item>
+      <title>Satgas PRR Perkuat Koordinasi Pemulihan Pascabencana di 53 Daerah Sumatera</title>
+      <link>https://news.detik.com/foto-news/d-8664329/satgas-prr-perkuat-koordinasi-pemulihan-pascabencana-di-53-daerah-sumatera</link>
+      <description>Satgas PRR Perkuat Koordinasi Pemulihan Pascabencana di 53 Daerah Sumatera</description>
+      <guid isPermaLink="false">https://news.detik.com/foto-news/d-8664329/satgas-prr-perkuat-koordinasi-pemulihan-pascabencana-di-53-daerah-sumatera</guid>
+    </item>
+    <item>
+      <title>Pria di Serang Diringkus Polisi Usai Sembunyikan Sabu dalam Popok Bayi</title>
+      <link>https://news.detik.com/berita/d-8664825/pria-di-serang-diringkus-polisi-usai-sembunyikan-sabu-dalam-popok-bayi</link>
+      <description>Pria di Serang Diringkus Polisi Usai Sembunyikan Sabu dalam Popok Bayi</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664825/pria-di-serang-diringkus-polisi-usai-sembunyikan-sabu-dalam-popok-bayi</guid>
+    </item>
+    <item>
+      <title>Peran 8 Tersangka Pemalsu SIM di Siak: Penyedia Blangko hingga Promosi</title>
+      <link>https://news.detik.com/melindungi-tuah-marwah/d-8664826/peran-8-tersangka-pemalsu-sim-di-siak-penyedia-blangko-hingga-promosi</link>
+      <description>Peran 8 Tersangka Pemalsu SIM di Siak: Penyedia Blangko hingga Promosi</description>
+      <guid isPermaLink="false">https://news.detik.com/melindungi-tuah-marwah/d-8664826/peran-8-tersangka-pemalsu-sim-di-siak-penyedia-blangko-hingga-promosi</guid>
+    </item>
+    <item>
+      <title>Polisi Gagalkan Tawuran di Bogor, 16 Pelaku dan 8 Motor Diamankan</title>
+      <link>https://news.detik.com/berita/d-8664831/polisi-gagalkan-tawuran-di-bogor-16-pelaku-dan-8-motor-diamankan</link>
+      <description>Polisi Gagalkan Tawuran di Bogor, 16 Pelaku dan 8 Motor Diamankan</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664831/polisi-gagalkan-tawuran-di-bogor-16-pelaku-dan-8-motor-diamankan</guid>
+    </item>
+    <item>
+      <title>Vertikal: Israel Hancurkan Fasilitas Desalinasi untuk Air Minum Warga Gaza</title>
+      <link>https://20.detik.com/detikupdate/20260916-260916017/vertikal-israel-hancurkan-fasilitas-desalinasi-untuk-air-minum-warga-gaza</link>
+      <description>Vertikal: Israel Hancurkan Fasilitas Desalinasi untuk Air Minum Warga Gaza</description>
+      <guid isPermaLink="false">https://20.detik.com/detikupdate/20260916-260916017/vertikal-israel-hancurkan-fasilitas-desalinasi-untuk-air-minum-warga-gaza</guid>
+    </item>
+    <item>
+      <title>Houthi Bantah Saudi soal Serangan Drone ke Mekkah: Tudingan Basi</title>
+      <link>https://news.detik.com/internasional/d-8664841/houthi-bantah-saudi-soal-serangan-drone-ke-mekkah-tudingan-basi</link>
+      <description>Houthi Bantah Saudi soal Serangan Drone ke Mekkah: Tudingan Basi</description>
+      <guid isPermaLink="false">https://news.detik.com/internasional/d-8664841/houthi-bantah-saudi-soal-serangan-drone-ke-mekkah-tudingan-basi</guid>
+    </item>
+    <item>
+      <title>Jaga Kamtibmas, Polres Jaksel Gencarkan Patroli dan Satkamling</title>
+      <link>https://news.detik.com/berita/d-8664843/jaga-kamtibmas-polres-jaksel-gencarkan-patroli-dan-satkamling</link>
+      <description>Jaga Kamtibmas, Polres Jaksel Gencarkan Patroli dan Satkamling</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664843/jaga-kamtibmas-polres-jaksel-gencarkan-patroli-dan-satkamling</guid>
+    </item>
+    <item>
+      <title>Pejabat Dishub Sukabumi Diperiksa Polisi Buntut Dugaan Pelecehan Siswi Magang</title>
+      <link>https://news.detik.com/berita/d-8664846/pejabat-dishub-sukabumi-diperiksa-polisi-buntut-dugaan-pelecehan-siswi-magang</link>
+      <description>Pejabat Dishub Sukabumi Diperiksa Polisi Buntut Dugaan Pelecehan Siswi Magang</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664846/pejabat-dishub-sukabumi-diperiksa-polisi-buntut-dugaan-pelecehan-siswi-magang</guid>
+    </item>
+    <item>
+      <title>Operator KM Virgo Tanggung Semua Biaya Pemulangan Jenazah Korban Kapal Terbalik</title>
+      <link>https://news.detik.com/berita/d-8664850/operator-km-virgo-tanggung-semua-biaya-pemulangan-jenazah-korban-kapal-terbalik</link>
+      <description>Operator KM Virgo Tanggung Semua Biaya Pemulangan Jenazah Korban Kapal Terbalik</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664850/operator-km-virgo-tanggung-semua-biaya-pemulangan-jenazah-korban-kapal-terbalik</guid>
+    </item>
+    <item>
+      <title>Malaysia Sita Kargo Tujuan Israel, Anwar Ibrahim Tegaskan Hal Ini</title>
+      <link>https://news.detik.com/internasional/d-8664855/malaysia-sita-kargo-tujuan-israel-anwar-ibrahim-tegaskan-hal-ini</link>
+      <description>Malaysia Sita Kargo Tujuan Israel, Anwar Ibrahim Tegaskan Hal Ini</description>
+      <guid isPermaLink="false">https://news.detik.com/internasional/d-8664855/malaysia-sita-kargo-tujuan-israel-anwar-ibrahim-tegaskan-hal-ini</guid>
+    </item>
+    <item>
+      <title>17 Remaja di Bogor Live IG Tunggu Lawan Tawuran, Lesu Saat yang Datang Polisi</title>
+      <link>https://news.detik.com/berita/d-8664857/17-remaja-di-bogor-live-ig-tunggu-lawan-tawuran-lesu-saat-yang-datang-polisi</link>
+      <description>17 Remaja di Bogor Live IG Tunggu Lawan Tawuran, Lesu Saat yang Datang Polisi</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664857/17-remaja-di-bogor-live-ig-tunggu-lawan-tawuran-lesu-saat-yang-datang-polisi</guid>
+    </item>
+    <item>
+      <title>Puspomau Ungkap Serda Ahmad Tewas Usai Dipukul Senior 3 Kali di Dada</title>
+      <link>https://news.detik.com/berita/d-8664858/puspomau-ungkap-serda-ahmad-tewas-usai-dipukul-senior-3-kali-di-dada</link>
+      <description>Puspomau Ungkap Serda Ahmad Tewas Usai Dipukul Senior 3 Kali di Dada</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664858/puspomau-ungkap-serda-ahmad-tewas-usai-dipukul-senior-3-kali-di-dada</guid>
+    </item>
+    <item>
+      <title>Daftar Wilayah di Aceh yang Terkena Banjir dan Longsor</title>
+      <link>https://news.detik.com/berita/d-8664898/daftar-wilayah-di-aceh-yang-terkena-banjir-dan-longsor</link>
+      <description>Daftar Wilayah di Aceh yang Terkena Banjir dan Longsor</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664898/daftar-wilayah-di-aceh-yang-terkena-banjir-dan-longsor</guid>
+    </item>
+    <item>
+      <title>Truk Mogok Melintang di Cakung Dievakuasi, Macet Mulai Terurai</title>
+      <link>https://news.detik.com/berita/d-8664903/truk-mogok-melintang-di-cakung-dievakuasi-macet-mulai-terurai</link>
+      <description>Truk Mogok Melintang di Cakung Dievakuasi, Macet Mulai Terurai</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664903/truk-mogok-melintang-di-cakung-dievakuasi-macet-mulai-terurai</guid>
+    </item>
+    <item>
+      <title>Video Kebakaran Pasar Lama Banjarmasin, Belasan Kios Hangus</title>
+      <link>https://20.detik.com/detikupdate/20260916-260916022/-video-kebakaran-pasar-lama-banjarmasin-belasan-kios-hangus</link>
+      <description>Video Kebakaran Pasar Lama Banjarmasin, Belasan Kios Hangus</description>
+      <guid isPermaLink="false">https://20.detik.com/detikupdate/20260916-260916022/-video-kebakaran-pasar-lama-banjarmasin-belasan-kios-hangus</guid>
+    </item>
+    <item>
+      <title>Sopir Travel Tewas Ditembak KKB di Wamena, Jenazah Belum Ditemukan</title>
+      <link>https://news.detik.com/berita/d-8664934/sopir-travel-tewas-ditembak-kkb-di-wamena-jenazah-belum-ditemukan</link>
+      <description>Sopir Travel Tewas Ditembak KKB di Wamena, Jenazah Belum Ditemukan</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664934/sopir-travel-tewas-ditembak-kkb-di-wamena-jenazah-belum-ditemukan</guid>
+    </item>
+    <item>
+      <title>Detik-detik Anak Lari Ketakutan Sebelum Dibunuh WN Australia di Bali Terekam CCTV</title>
+      <link>https://news.detik.com/berita/d-8664938/detik-detik-anak-lari-ketakutan-sebelum-dibunuh-wn-australia-di-bali-terekam-cctv</link>
+      <description>Detik-detik Anak Lari Ketakutan Sebelum Dibunuh WN Australia di Bali Terekam CCTV</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664938/detik-detik-anak-lari-ketakutan-sebelum-dibunuh-wn-australia-di-bali-terekam-cctv</guid>
+    </item>
+    <item>
+      <title>Helikopter Jepang Belum Optimal Padamkan Karhutla Kalbar karena Jarak Pandang</title>
+      <link>https://news.detik.com/berita/d-8664943/helikopter-jepang-belum-optimal-padamkan-karhutla-kalbar-karena-jarak-pandang</link>
+      <description>Helikopter Jepang Belum Optimal Padamkan Karhutla Kalbar karena Jarak Pandang</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664943/helikopter-jepang-belum-optimal-padamkan-karhutla-kalbar-karena-jarak-pandang</guid>
+    </item>
+    <item>
+      <title>4 Prajurit Penganiaya Serda Ahmad Terancam 9 Tahun Penjara hingga Pemecatan</title>
+      <link>https://news.detik.com/berita/d-8664953/4-prajurit-penganiaya-serda-ahmad-terancam-9-tahun-penjara-hingga-pemecatan</link>
+      <description>4 Prajurit Penganiaya Serda Ahmad Terancam 9 Tahun Penjara hingga Pemecatan</description>
+      <guid isPermaLink="false">https://news.detik.com/berita/d-8664953/4-prajurit-penganiaya-serda-ahmad-terancam-9-tahun-penjara-hingga-pemecatan</guid>
+    </item>
+  </channel>
+</rss>
