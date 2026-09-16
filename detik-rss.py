@@ -39,11 +39,16 @@ if response.status_code == 200:
         article_title = a.get_text(strip=True)
         if not article_title:
             continue
+        img = a.find_parent().select_one(".media__image")
+
         fe = fg.add_entry()
         fe.id(article_link)
         fe.title(article_title)
         fe.description(article_title)
         fe.link(href=article_link)
+
+        if img:
+            fe.content(f'<p>{article_title}</p><img src="{img["src"]}"/>', type="CDATA")
 
     # Generate the RSS Feed
     fg.rss_file("rss/detik.xml", pretty=True)
